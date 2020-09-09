@@ -1,0 +1,1073 @@
+{
+    "lens_id": "275591f5-b003-463c-a1e1-553f6ebcce19",
+    "document_id": "GIc31D7mCFF44xjYjMo0",
+    "original_document_id": "GIc31D7mCFF44xjYjMo0",
+    "version": "23",
+    "lastChanged": "1591453381910",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "VR"
+                    ],
+                    [
+                        "VR",
+                        "Animations"
+                    ],
+                    [
+                        "VR",
+                        "Materials"
+                    ],
+                    [
+                        "VR",
+                        "Materials",
+                        "Material"
+                    ],
+                    [
+                        "VR",
+                        "Materials",
+                        "Material 2"
+                    ],
+                    [
+                        "VR",
+                        "Meshes"
+                    ],
+                    [
+                        "VR",
+                        "Meshes",
+                        "Plane"
+                    ],
+                    [
+                        "VR",
+                        "Meshes",
+                        "Plane 2"
+                    ],
+                    [
+                        "VR",
+                        "VR"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "text"
+                    ],
+                    [
+                        "unity-removebg-preview"
+                    ],
+                    [
+                        "unreal"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1591418751754471:2393",
+                    "1591422154726731:6061"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "45938359d85bd5c9c3cc7ac4aa290d2d",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Mayavi",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 4.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1591418660955344:1871",
+                    "1591422155226280:6262",
+                    "1591422943890273:14725",
+                    "1591422960018823:15439",
+                    "1591423014394886:17830",
+                    "1591436575596716:6018",
+                    "1591442829648695:15601",
+                    "1591443312770791:17321",
+                    "1591443342739249:17997"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1591422275099302:9772",
+                    "name": "Files\/File30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1591422478836677:13548",
+                    "name": "Files\/File32.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1591441699427369:12380",
+                    "name": "Files\/File89.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1591441699504416:12394",
+                    "name": "Files\/File90.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1591441699575997:12404",
+                    "name": "Files\/File91",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1591441700008212:12419",
+                    "name": "Files\/File93",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1591441700431733:12453",
+                    "name": "VR",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1591443353853017:19231",
+                    "name": "Files\/File100",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1591422155226280:6262",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1591422461423622:11456",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1591418660955010:1870",
+                "4": "1591422154726731:6061",
+                "5": "1591422155181284:6126",
+                "6": "1591422155225958:6261",
+                "7": "1591422461422944:11455",
+                "8": "1591436575596716:6018",
+                "9": "1591436575600665:6038",
+                "10": "1591441701561762:12493",
+                "11": "1591441701562660:12503"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "89",
+                    "v": "Files\/File89.mesh"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.mesh"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "93",
+                    "v": "Files\/File93"
+                },
+                {
+                    "k": "94",
+                    "v": "Files\/File94.lsmat"
+                },
+                {
+                    "k": "95",
+                    "v": "Files\/File95.oprfb"
+                },
+                {
+                    "k": "96",
+                    "v": "Files\/File96.fbx"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97.oprfb"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100"
+                },
+                {
+                    "k": "101",
+                    "v": "Files\/File101.gif"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "unity-removebg-preview.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "unreal.png"
+                    },
+                    {
+                        "k": "44",
+                        "v": "VR.fbx"
+                    },
+                    {
+                        "k": "45",
+                        "v": "..\/AdditionalFiles\/VR\/Materials"
+                    },
+                    {
+                        "k": "46",
+                        "v": "..\/AdditionalFiles\/VR\/Materials\/Material.lsmat"
+                    },
+                    {
+                        "k": "47",
+                        "v": "..\/AdditionalFiles\/VR\/Materials\/Material 2.lsmat"
+                    },
+                    {
+                        "k": "49",
+                        "v": "text.gif"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "394e010636e6be08f610cbf4e0290f5c"
+                    },
+                    {
+                        "k": "5",
+                        "v": "274563f8b5a73803ee8991ac8d0ac81b"
+                    },
+                    {
+                        "k": "6",
+                        "v": "b894f789d91d4e9dd3da4603900c1077"
+                    },
+                    {
+                        "k": "7",
+                        "v": "1dc2248d15265604790b23581d1f22b1"
+                    },
+                    {
+                        "k": "8",
+                        "v": "394e010636e6be08f610cbf4e0290f5c"
+                    },
+                    {
+                        "k": "10",
+                        "v": "226234ed5e7c76ea85a34e543cdd9cf7"
+                    },
+                    {
+                        "k": "11",
+                        "v": "fb851e15fa508bf070015aeccc2b6923"
+                    },
+                    {
+                        "k": "12",
+                        "v": "a9f8fa668946500c5a5224f799964ba6"
+                    },
+                    {
+                        "k": "13",
+                        "v": "77db9d90d4e54882fd42e0bb63dc3a04"
+                    },
+                    {
+                        "k": "14",
+                        "v": "9f5355fff25dd92c0a1ed38c0c7e29ff"
+                    },
+                    {
+                        "k": "15",
+                        "v": "4c5e44aee03434bfcd1afc31145c78df"
+                    },
+                    {
+                        "k": "16",
+                        "v": "054c8a78d125d930249061ff508d3e3f"
+                    },
+                    {
+                        "k": "17",
+                        "v": "e3085fba6334de45a0266423bb9ac6e7"
+                    },
+                    {
+                        "k": "19",
+                        "v": "008a7ce7e6d1366c7564a78e4e657643"
+                    },
+                    {
+                        "k": "20",
+                        "v": "811131cf8786a4e941e4ad19661522fe"
+                    },
+                    {
+                        "k": "21",
+                        "v": "ccd0298db753cc0ebe4de29a14a22340"
+                    },
+                    {
+                        "k": "22",
+                        "v": "394e010636e6be08f610cbf4e0290f5c"
+                    },
+                    {
+                        "k": "24",
+                        "v": "226234ed5e7c76ea85a34e543cdd9cf7"
+                    },
+                    {
+                        "k": "25",
+                        "v": "fb851e15fa508bf070015aeccc2b6923"
+                    },
+                    {
+                        "k": "26",
+                        "v": "a9f8fa668946500c5a5224f799964ba6"
+                    },
+                    {
+                        "k": "27",
+                        "v": "e3085fba6334de45a0266423bb9ac6e7"
+                    },
+                    {
+                        "k": "29",
+                        "v": "197e5c1c92cc33947497dcb729463651"
+                    },
+                    {
+                        "k": "30",
+                        "v": "f853b29d3a7ee82d8aed7bedbe1f5c69"
+                    },
+                    {
+                        "k": "31",
+                        "v": "dfe9b65dc61df127b7725f31adfb2242"
+                    },
+                    {
+                        "k": "32",
+                        "v": "9d9efa5e055402c69a25b806efe7619f"
+                    },
+                    {
+                        "k": "34",
+                        "v": "c06144a55ca606668d79b43c63bdf3b9"
+                    },
+                    {
+                        "k": "35",
+                        "v": "4e1ecf9c9480250d15386f98e944265f"
+                    },
+                    {
+                        "k": "36",
+                        "v": "9d9efa5e055402c69a25b806efe7619f"
+                    },
+                    {
+                        "k": "38",
+                        "v": "ea4efd6b331e852cc449def19b52ccae"
+                    },
+                    {
+                        "k": "39",
+                        "v": "16eddf553bd853535c9f0e3cc5a45e04"
+                    },
+                    {
+                        "k": "40",
+                        "v": "ef3f38d5e4944c5abc28951ddade999d"
+                    },
+                    {
+                        "k": "42",
+                        "v": "700ab034eda9649f185177371bceadc0"
+                    },
+                    {
+                        "k": "43",
+                        "v": "b2aeb823b6aade8e173f8127632e433c"
+                    },
+                    {
+                        "k": "44",
+                        "v": "ba35d3e188eec9eb65776259b0c1e603"
+                    },
+                    {
+                        "k": "46",
+                        "v": "a66e34b2f770bd585c8be8c6bfeb2fd1"
+                    },
+                    {
+                        "k": "47",
+                        "v": "98af3c7f4533fe757e6f6957e25e87ea"
+                    },
+                    {
+                        "k": "48",
+                        "v": "fe2bcf18452f3ed6342d1cf26ad38781"
+                    },
+                    {
+                        "k": "49",
+                        "v": "37b4b9f9cc04430f2c8e79ca0a702c8d"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-06-06T17:05:53",
+                        "name": "Public",
+                        "hash": "adffae9a3a467de5c2d90d0ca3be53df",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-01-31T13:19:10",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-06T17:04:48",
+                                "name": "text.gif",
+                                "hash": "37b4b9f9cc04430f2c8e79ca0a702c8d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-06T11:14:19",
+                                "name": "unity-removebg-preview.png",
+                                "hash": "9f5355fff25dd92c0a1ed38c0c7e29ff",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-06T11:16:57",
+                                "name": "unreal.png",
+                                "hash": "4c5e44aee03434bfcd1afc31145c78df",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-06-06T16:37:53",
+                                "name": "VR.fbx",
+                                "hash": "ba35d3e188eec9eb65776259b0c1e603",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "unity-removebg-preview",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "uid": "1591422275099302:9772",
+                        "fileId": "30",
+                        "originalId": "31",
+                        "publicId": "14",
+                        "source": "C:\/Users\/LENOVO\/Downloads\/unity-removebg-preview.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "unreal",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "27",
+                        "dependency": "0",
+                        "uid": "1591422478836677:13548",
+                        "fileId": "32",
+                        "originalId": "33",
+                        "publicId": "15",
+                        "source": "C:\/Users\/LENOVO\/Music\/unreal.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "VR",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "96",
+                        "originalId": "18446744073709551615",
+                        "publicId": "44",
+                        "source": "D:\/3d objects\/VR.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Material",
+                                    "v": "1591441699575997:12404"
+                                },
+                                {
+                                    "k": "Material 2",
+                                    "v": "1591441700008212:12419"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Plane",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "60",
+                                        "dependency": "1",
+                                        "uid": "1591441699427369:12380",
+                                        "fileId": "89",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/LENOVO\/AppData\/Local\/Temp\/Lens Studio-eJhRqF\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Plane 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "61",
+                                        "dependency": "1",
+                                        "uid": "1591441699504416:12394",
+                                        "fileId": "90",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "C:\/Users\/LENOVO\/AppData\/Local\/Temp\/Lens Studio-eJhRqF\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "45",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "62",
+                                        "dependency": "0",
+                                        "uid": "1591441699575997:12404",
+                                        "fileId": "91",
+                                        "originalId": "92",
+                                        "publicId": "46",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Material 2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "63",
+                                        "dependency": "0",
+                                        "uid": "1591441700008212:12419",
+                                        "fileId": "93",
+                                        "originalId": "94",
+                                        "publicId": "47",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "VR",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "64",
+                                "dependency": "1",
+                                "uid": "1591441700431733:12453",
+                                "fileId": "95",
+                                "originalId": "97",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "text",
+                        "type": "1",
+                        "subtype": "5",
+                        "resourceId": "66",
+                        "dependency": "0",
+                        "uid": "1591443353853017:19231",
+                        "fileId": "100",
+                        "originalId": "101",
+                        "publicId": "49",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1591441701561762:12493",
+                        "v": {
+                            "prefab": "1591441700431733:12453",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1591441700424848:12434",
+                                    "v": "1591441701561762:12493"
+                                },
+                                {
+                                    "k": "1591441700426690:12436",
+                                    "v": "1591441701562660:12503"
+                                },
+                                {
+                                    "k": "1591441700427535:12438",
+                                    "v": "1591441701563479:12505"
+                                },
+                                {
+                                    "k": "1591441700429502:12450",
+                                    "v": "1591441701565042:12517"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1591418748887826:2326",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1591418748880725:2266"
+                        },
+                        {
+                            "k": [
+                                "Circle"
+                            ],
+                            "v": "1591418748882524:2282"
+                        },
+                        {
+                            "k": [
+                                "Circle",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591418748882876:2284"
+                        },
+                        {
+                            "k": [
+                                "Cube"
+                            ],
+                            "v": "1591418748881190:2268"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591418748881488:2270"
+                        },
+                        {
+                            "k": [
+                                "Empty"
+                            ],
+                            "v": "1591418748884357:2296"
+                        },
+                        {
+                            "k": [
+                                "Plane.001"
+                            ],
+                            "v": "1591418748886054:2312"
+                        },
+                        {
+                            "k": [
+                                "Plane.001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591418748886384:2314"
+                        },
+                        {
+                            "k": [
+                                "Plane.003"
+                            ],
+                            "v": "1591418748884725:2298"
+                        },
+                        {
+                            "k": [
+                                "Plane.003",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591418748885019:2300"
+                        }
+                    ]
+                },
+                {
+                    "k": "1591441700431733:12453",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1591441700424848:12434"
+                        },
+                        {
+                            "k": [
+                                "Plane"
+                            ],
+                            "v": "1591441700426690:12436"
+                        },
+                        {
+                            "k": [
+                                "Plane",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1591441700427535:12438"
+                        },
+                        {
+                            "k": [
+                                "Plane",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1591441700429502:12450"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
